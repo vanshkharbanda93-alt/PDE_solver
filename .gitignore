@@ -1,0 +1,19 @@
+# compiled files
+*.o
+*.out
+*.exe
+*.a
+*.so
+build/
+cmake-build-*/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+
+# large/private data
+raw_data/
+*.csv
+*.xlsx
+*.parquet
