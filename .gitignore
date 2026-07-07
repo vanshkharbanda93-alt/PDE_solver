@@ -1,11 +1,3 @@
-# compiled files
-*.o
-*.out
-*.exe
-*.a
-*.so
-build/
-cmake-build-*/
 
 # IDE/editor
 .vscode/
